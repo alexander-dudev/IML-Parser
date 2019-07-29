@@ -1,0 +1,8 @@
+﻿  operation_on_list.cpp
+  main.cpp
+  iml_parser.cpp
+  Generating Code...
+d:\sofia university\2.1 втори курс, първи семестър\структури от данни и програмиране\iml_github\iml_github\iml\iml_parser.cpp(113): warning C4715: 'IMLparser::parse': not all control paths return a value
+d:\sofia university\2.1 втори курс, първи семестър\структури от данни и програмиране\iml_github\iml_github\iml\linked_stack.h(73): warning C4172: returning address of local variable or temporary
+  IML.vcxproj -> D:\Sofia University\2.1 Втори курс, първи семестър\Структури от данни и програмиране\IML_GitHub\IML_GitHub\Debug\IML.exe
+  IML.vcxproj -> D:\Sofia University\2.1 Втори курс, първи семестър\Структури от данни и програмиране\IML_GitHub\IML_GitHub\Debug\IML.pdb (Full PDB)
